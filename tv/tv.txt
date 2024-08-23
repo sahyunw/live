@@ -256,8 +256,8 @@ KBS-2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS WORLD,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
-KBS World,https://cdn1.skygo.mn/live/disk1/KBS_World_24/HLS-FTA/KBS_World_24.m3u8
-KBS NEWS,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+KBS KOREA,https://cdn1.skygo.mn/live/disk1/KBS_World_24/HLS-FTA/KBS_World_24.m3u8
+KBS NEWS,https://cqaq.eu.org/api/kbsnew.php?id=81&p=0
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
 KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php/.m3u8
 KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php/.m3u8
