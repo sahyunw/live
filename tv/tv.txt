@@ -9,7 +9,8 @@
 
 
 地方电视,#genre#
-厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
+聊城综合,http://file.lcxw.cn/nmip-media/channellive/channel101173/playlist.m3u8
+聊城民生,http://file.lcxw.cn/nmip-media/channellive/channel101246/playlist.m3u8
 临沂新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 临沂经济,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂公共,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
@@ -20,10 +21,6 @@
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
-无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
-无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
-无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 亳州新闻,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
@@ -31,13 +28,22 @@
 南宁都市生活,http://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁公共,http://hls.nntv.cn/nnlive/GGPD_24.m3u8
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
+酒泉电视台,https://play.kankanlive.com/live/1702033926169975.m3u8
+晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+新昌新闻,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8?zjiangsd
+无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8?zjiangsd
+无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8?zjiangsd
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
 
 
 
 少儿频道,#genre#
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+
 
 한국방송,#genre#
 KBS-1,http://mytv.dothome.co.kr/ch/public/1.php/.m3u8
