@@ -9,28 +9,24 @@ KBS-2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS WORLD,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS WORLD,http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
-KBS KOREA,https://cdn1.skygo.mn/live/disk1/KBS_World_24/HLS-FTA/KBS_World_24.m3u8
 KBS NEWS,https://cqaq.eu.org/api/kbsnew.php?id=81&p=0
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
 KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php/.m3u8
 KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php/.m3u8
 KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
 KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php/.m3u8
-TJB|SBS,http://1.245.74.5:1935/live/tv/.m3u8
+대전MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1033409542.m3u8
+MBC청북,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 KBC|SBS,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 JTV|SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
-대전MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1033409542.m3u8
-MBC청북,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,http://hls.ye23.vip/hk/MBN.php
-TV조선,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
 연합뉴스TV,https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 연합뉴스TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 TBS,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 OBS경인방송,https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
-방송대학TV,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 tvN,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
 
@@ -43,7 +39,7 @@ CCTV-3高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000302
 CCTV-4高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid=
 CCTV-5高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=
 CCTV-5+高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=
-CCTV-6高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000306?AuthInfo=xxx&userid=
+CCTV-6高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid=
 CCTV-7高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid=
 CCTV-8高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid=
 CCTV-9高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid=
@@ -69,19 +65,22 @@ CETV-1高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000363
 CETV-早期教育,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000400?AuthInfo=xxx&userid=
 CETV-4,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000362?AuthInfo=xxx&userid=
 CGTN,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000344?AuthInfo=xxx&userid=
+中国交通,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000420?AuthInfo=xxx&userid=
 
 
 
 卫视频道,#genre#
 山东卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=
 东方卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
+北京卫视4K,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000425?AuthInfo=xxx&userid=
+北京卫视4K,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000426?AuthInfo=xxx&userid=
+北京卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
 湖南卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=
 江苏卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=
 安徽卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
 辽宁卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=
 浙江卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
 湖北卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=
-北京卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
 天津卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
 深圳卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
 广东卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
@@ -110,13 +109,13 @@ CGTN,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000344?AuthInf
 重庆频道,#genre#
 重庆卫视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
 重庆新闻高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
-重庆时尚生活高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
-重庆文体娱乐高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
-重庆影视高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
-重庆科技高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
+重庆影视剧高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
+重庆红岩文化高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
+重庆社会与法高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
 重庆少儿高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=
 重庆汽摩高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=
-重庆社会与法高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
+重庆文体娱乐高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
+重庆红叶高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 重庆新农村高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
 重庆移动高清,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000384?AuthInfo=xxx&userid=
 
@@ -136,16 +135,15 @@ CGTN,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000344?AuthInf
 动作影院,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000393?AuthInfo=xxx&userid=
 精彩影视,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000396?AuthInfo=xxx&userid=
 都市剧场,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000412?AuthInfo=xxx&userid=
+法治天地,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000417?AuthInfo=xxx&userid=
+金色学堂,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000416?AuthInfo=xxx&userid=
+生活时尚,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000418?AuthInfo=xxx&userid=
 4K测试,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?AuthInfo=xxx&userid=
 求索记录,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000397?AuthInfo=xxx&userid=
-纪实人文,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000275?AuthInfo=xxx&userid=
 乐游,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000276?AuthInfo=xxx&userid=
 动漫秀场,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000413?AuthInfo=xxx&userid=
 游戏风云,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000414?AuthInfo=xxx&userid=
 魅力足球,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000415?AuthInfo=xxx&userid=
-法治天地,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000417?AuthInfo=xxx&userid=
-金色学堂,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000416?AuthInfo=xxx&userid=
-生活时尚,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000418?AuthInfo=xxx&userid=
 快乐垂钓,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000382?AuthInfo=xxx&userid=
 茶频道,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000395?AuthInfo=xxx&userid=
 
