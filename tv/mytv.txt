@@ -17,9 +17,9 @@ KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
 KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php/.m3u8
 대전MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1033409542.m3u8
 MBC청북,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-KBC|SBS,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-JTV|SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+KBC SBS,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+JTV SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,http://hls.ye23.vip/hk/MBN.php
@@ -141,13 +141,14 @@ CGTN,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000344?AuthInf
 金色学堂,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000416?AuthInfo=xxx&userid=
 生活时尚,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000418?AuthInfo=xxx&userid=
 4K测试,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?AuthInfo=xxx&userid=
-求索记录,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000397?AuthInfo=xxx&userid=
+求索纪录,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000397?AuthInfo=xxx&userid=
 乐游,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000276?AuthInfo=xxx&userid=
 动漫秀场,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000413?AuthInfo=xxx&userid=
 游戏风云,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000414?AuthInfo=xxx&userid=
 魅力足球,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000415?AuthInfo=xxx&userid=
 快乐垂钓,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000382?AuthInfo=xxx&userid=
 茶频道,rtsp://123.147.113.84:554/04000001/01000000004000000000000000000395?AuthInfo=xxx&userid=
+
 
 
 
