@@ -2,10 +2,15 @@
 重庆新闻,https://cqaq.eu.org/api/cqtv.php?id=3
 璧山综合频道,http://222.179.42.129:8181/hls1.m3u8
 永川综合频道,https://yypull.cbg.cn/applive/yctv01/playlist.m3u8
+巴南综合,http://live.cqbntv.com/bnmc/tv0709.m3u8
+涪陵综合,http://183.64.215.48:1002/1.m3u8
+大足综合,https://yypull.cbg.cn/applive/dazulive01/playlist.m3u8
 开州综合,https://yypull.cbg.cn/applive/kzpd02/playlist.m3u8
 潼南综合频道,http://183.230.184.51:65500/tntv1.m3u8
-梁平综合,https://yypull.cbg.cn/applive/lplive01/chunklist.m3u8
 酉阳综合频道,http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
+万盛综合,https://yypull.cbg.cn/applive/wslive01/playlist.m3u8
+忠县综合,https://yypull.cbg.cn/applive/zxtv2/playlist.m3u8
+梁平综合,https://yypull.cbg.cn/applive/lplive01/playlist.m3u8
 
 
 地方电视,#genre#
@@ -64,8 +69,8 @@ KBS Life,http://mytv.dothome.co.kr/ch/catv/5.php/.m3u8
 KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php/.m3u8
 KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php/.m3u8
 TJB|SBS,http://1.245.74.5:1935/live/tv/.m3u8
-KBC|SBS,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-KBC|SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+CJB|SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 JTV|SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
 대전MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1033409542.m3u8
 MBC청북,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
